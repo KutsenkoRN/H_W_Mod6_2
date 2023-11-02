@@ -1,0 +1,12 @@
+D:\HW6_2-develop\app\Infrastructure\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+D:\HW6_2-develop\app\Infrastructure\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+D:\HW6_2-develop\app\Infrastructure\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+D:\HW6_2-develop\app\Infrastructure\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\HW6_2-develop\app\Infrastructure\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW6_2-develop\app\Infrastructure\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\HW6_2-develop\app\Infrastructure\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+D:\HW6_2-develop\app\Infrastructure\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\HW6_2-develop\app\Infrastructure\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+D:\HW6_2-develop\app\Infrastructure\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+D:\HW6_2-develop\app\Infrastructure\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+D:\HW6_2-develop\app\Infrastructure\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
